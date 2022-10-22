@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./src/challenges/RomanToInteger.js"
+    "dev": "nodemon ./src/challenges/TwoSum.js"
   },
   "keywords": [],
   "author": "Jorge Trad <jetradl@gmail.com>",
