@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./src/challenges/TwoSum.js"
+    "dev": "nodemon ./src/challenges/BinarySearch.js"
   },
   "keywords": [],
   "author": "Jorge Trad <jetradl@gmail.com>",
